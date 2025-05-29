@@ -6,7 +6,8 @@
 ```markdown
 # Tic Tac Toe (Console Game)
 
-A classic 2-player Tic Tac Toe game built in C. This was created to practice my understanding of memory management, arrays, functions, and basic game logic.
+A classic 2-player Tic Tac Toe game built in C. This was created to practice my understanding of 
+memory management, arrays, functions, and basic game logic.
 
 ## 🎮 Features
 
